@@ -1,0 +1,16 @@
+{
+  "spotify": {
+    "client_id": "2d4e6005225249408e3268b59e9f60d4",
+    "client_secret": "3c170c2dd40748cfa44f44833ebb1282"
+  },
+  "download": {
+    "base_path": "C:\\Users\\Hans\\Music\\Spotify_Albums",
+    "create_album_folders": true,
+    "audio_format": "mp3",
+    "bitrate": "auto"
+  },
+  "tracking": {
+    "downloaded_albums_file": "downloaded_albums.json",
+    "skip_existing": true
+  }
+}
